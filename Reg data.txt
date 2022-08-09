@@ -1,0 +1,2 @@
+*Name:lipto	*ID:180101025	*Dept:cse	*Level:1	*Term:1	
+*Name:lipto	*ID:7897	*Dept:cse	*Level:1	*Term:1	
